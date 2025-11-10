@@ -49,7 +49,8 @@ The following codes are not soft coded. Some editing in terms of where data is s
 
 NOTE: The following files are also varying types of statistical filters. They therefore follow the same structure as Report_Statistical_3std_filt, their standard deviation cut off is just slightly different for each one
  
-### Report_Statistical_3std_Rolling_filt: This code using a rolling window to calculate mean and standard deviation so the cut off point is always changing along the time series
+Report_Statistical_3std_Rolling_filt: This code using a rolling window to calculate mean and standard deviation so the cut off point is always changing along the time series
 
-### Report_Statistical_4std_filt: In this code, data is removed when the number concentration is greater than 4 standard deviations away from the mean of the time series
+Report_Statistical_4std_filt: In this code, data is removed when the number concentration is greater than 4 standard deviations away from the mean of the time series
+
 
