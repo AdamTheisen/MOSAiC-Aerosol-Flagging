@@ -1,4 +1,4 @@
-HDF5 Gen Read Me:
+# HDF5 Gen Read Me:
 
 A compressed file was generated to be the input for all filters built to avoid the carrying of excess information and to streamline the coding process
 
